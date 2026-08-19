@@ -128,7 +128,7 @@ The goal is to capture the **approach and reasoning**, not just a working answer
 
 ## 🔗 Practice & Related Resources
 
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Visit%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Visit%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/samakshserc6)
 
 - **GeeksforGeeks** — Primary problem-solving practice
 - **150 DSA Sheet** — Structured DSA preparation track
@@ -138,7 +138,7 @@ The goal is to capture the **approach and reasoning**, not just a working answer
 
 ## 👨‍💻 Author
 
-**Samaksh Singh**
+**S Choudhary**
 Developer · MCA Student · DSA Learner
 
 [![GitHub](https://img.shields.io/badge/GitHub-s--choudhary--1593-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/s-choudhary-1593)
