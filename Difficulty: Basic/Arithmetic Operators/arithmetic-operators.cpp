@@ -6,7 +6,7 @@ int main() {
     int x, y;
     cin >> x >> y;
 
-    // code here
+    //solution
     int p = x+y;
     int q = x-y;
     int r = x*y;
